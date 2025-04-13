@@ -1,6 +1,4 @@
-markdown
-Copy
-Edit
+
 # 🧠 BlogPost App
 
 A simple BlogPost application built using **React** for the frontend and **Appwrite** for backend services like authentication, database, and storage.
@@ -16,9 +14,8 @@ A simple BlogPost application built using **React** for the frontend and **Appwr
 
 1. **Clone the Repository**
 
-```
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name```
+```git clone https://github.com/pruthvi300/LitePost.git```
+cd your-repo-name
 Install Dependencies
 
 npm install
@@ -47,6 +44,9 @@ Easy to extend with more features
 
 📸 Screenshots
 
+![Screenshot from 2025-04-13 17-12-52](https://github.com/user-attachments/assets/a09fa55c-903d-4beb-ac9f-75574d9d9cd6)
+![Screenshot from 2025-04-13 17-12-37](https://github.com/user-attachments/assets/67656bd4-d6ad-43fb-83ee-382d6d10f664)
+![Screenshot from 2025-04-13 17-12-14](https://github.com/user-attachments/assets/bdafe427-b6bc-4a4e-9deb-f47945df038a)
 
 🧑‍💻 Author
 Pruthviraj Kakade
